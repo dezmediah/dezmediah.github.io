@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: This page is in progress. For some of my older creative projects, see https://dezmediah.github.io/Dezmediah-site/
 nav: true
 nav_order: 3
 display_categories: [work, fun]
