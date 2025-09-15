@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Atlantan. Digital ecological humanist. Writer [creative writing] and [peer-reviewed publications]. Musician [bandcamp here]. Teacher [class syllabi here]. Friendly nerd.
+Atlantan. Digital ecological humanist. Writer/Scholar/Artist/Teacher. PhD Candidate at Emory University.
 
 My dissertation is about the cultural life of urban rivers, melding digital NLP methodologies, field work, and literary and film analysis. I look at the New York Estuary, the Los Angeles River, and the Elbe River and their tributaries.
 
