@@ -11,9 +11,7 @@ toc: false
     width="100%"
     height="100%"
     style="border:0;"
-  ></iframe>
-</div>
-
-<p>
+  ><p>
   <a href="{{ '/assets/img/your_cv.pdf' | relative_url }}" download>Download PDF</a>
-</p>
+</p></iframe>
+</div>
