@@ -1,9 +1,11 @@
 ---
-layout: project
-title: "Generative Poetry"
-category: work
+layout: page
+title: project 1
+description: a project with a background image and giscus comments
+img: assets/img/poems.png
 importance: 1
-image: /assets/images/poems.png
+category: work
+giscus_comments: true
 ---
 
 These are two electronic poems I wrote, which were published in the journal *Always Crashing* in Fall 2021. To read them now, click below. Poems will automatically re-generate every 15 seconds, or you can refresh the page to read another version.
