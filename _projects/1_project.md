@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Generative Poetry
 description: with background image
 img: assets/images/poems.png
