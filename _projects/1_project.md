@@ -2,7 +2,7 @@
 layout: project
 title: Generative Poetry
 description: with background image
-img: assets/images/poems.png
+image: assets/images/poems.png
 importance: 1
 category: work
 related_publications: false
