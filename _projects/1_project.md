@@ -1,11 +1,8 @@
 ---
-layout: project
-title: Generative Poetry
-description: with background image
-image: assets/images/poems.png
-importance: 1
+title: "Generative Poetry"
 category: work
-related_publications: false
+importance: 1
+image: /assets/images/poems.png
 ---
 These are two electronic poems I wrote, which were published in the journal Always Crashing in Fall 2021. To read them now, click below. Poems will automatically re-generate every 15 seconds, or you can go ahead and refresh the page to read another version.
 
