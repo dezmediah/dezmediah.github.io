@@ -8,7 +8,9 @@ category: work
 related_publications: true
 ---
 
-This is the page content for **Generative Poetry**.  
-You can add text here describing the project, poems, or context.  
-Include images later only if you want, but this version is text-only for a clean base.
+# Generative Poetry
 
+This page introduces the project.  
+Add your text here — description, context, or links.  
+
+You can always add images later if needed, but this is the simplest working version.
