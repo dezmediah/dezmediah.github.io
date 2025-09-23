@@ -414,9 +414,9 @@ ninja.data = [{
           description: "produced at DinaCon 2019, published in Always Crashing in Fall 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-searching-for-latent-river-cultures",
+          title: 'Searching for Latent River Cultures',
+          description: "published in *The Hungarian Journal for English and American Studies*, 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
