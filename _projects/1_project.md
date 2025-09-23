@@ -8,11 +8,11 @@ category: work
 giscus_comments: false
 ---
 
-These are two electronic poems I wrote, which were published in the journal *Always Crashing* in Fall 2021. To read them now, click below. Poems will automatically re-generate every 15 seconds, or you can refresh the page to read another version.
+These are two electronic poems I wrote, which were published in the journal [*Always Crashing* ](https://www.alwayscrashing.com/current/2021/10/6/dez-miller-2-regenerating-poems) in Fall 2021. To read them now, click below. Poems will automatically re-generate every 15 seconds, or you can refresh the page to read another version.
 
-[theProjectOfTheAgouti](https://your-site-url.com/theProjectOfTheAgouti)
+[theProjectOfTheAgouti](https://dezmiller.com/theProjectOfTheAgouti)
 
-[sometimesAtDawn](https://your-site-url.com/sometimesAtDawn)
+[sometimesAtDawn](https://dezmiller.com/sometimesAtDawn)
 
 ## More Info about the Process
 
