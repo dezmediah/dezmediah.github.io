@@ -409,9 +409,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "a project with a background image and giscus comments",
+          section: "News",},{id: "projects-generative-poetry",
+          title: 'Generative Poetry',
+          description: "produced at DinaCon 2019, published in Always Crashing in Fall 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
