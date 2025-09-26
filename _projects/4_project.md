@@ -10,12 +10,10 @@ category: fun
 <!-- actual music links -->
 <p>I record music under the name Dezmediah. Find everything at <a href="https://dezmediah.bandcamp.com">dezmediah.bandcamp.com</a> or on Spotify under Dezmediah. Below are a few projects.</p>
 
-<details>
-  <summary><span>The Way That We’d Been Livin’</span></summary>
   <h3>The Way That We’d Been Livin’</h3>
   <p>My first album. 7 songs.</p>
   <iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=836865609/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/the-way-that-wed-been-living">the way that we&#39;d been living by Dez Miller</a></iframe>
-</details>
+<p></p>
 
 <details>
   <summary><span>Beep Boop</span></summary>
@@ -53,6 +51,9 @@ category: fun
         <h3>All I Want Is You</h3>
         <div class="content">
           <p>A video I made based on a Barry Louis Polisar cover.</p>
+        </div>
+        <div>
+          <iframe width="950" height="495" src="https://www.youtube.com/embed/yU-WHco_emw?list=PLAA_ca8lZFe-T06zgnjfn4Vgft4CkjZwQ" title="Robot Language" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
       </a>
     </article>
