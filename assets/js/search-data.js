@@ -419,9 +419,9 @@ ninja.data = [{
           description: "published in *The Hungarian Journal for English and American Studies*, 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-text-mining-sci-fi-in-the-hathitrust-digital-library",
+          title: 'text mining Sci-Fi in the HathiTrust Digital Library',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
