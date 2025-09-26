@@ -1,7 +1,7 @@
 ---
 layout: page
 title: text mining Sci-Fi in the HathiTrust Digital Library
-description: 
+description: 2023
 img: assets/img/Temple_word2vec_chart.png
 importance: 3
 category: work
