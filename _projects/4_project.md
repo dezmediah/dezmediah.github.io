@@ -8,28 +8,20 @@ category: fun
 ---
 
 <!-- actual music links -->
-<p>I record music under the moniker Dezmediah. Find everything at <a href="https://dezmediah.bandcamp.com">dezmediah.bandcamp.com</a> or on Spotify under Dezmediah. Below are a few projects.</p>
+<p>I record music under the name Dezmediah. Find everything at <a href="https://dezmediah.bandcamp.com">dezmediah.bandcamp.com</a> or on Spotify under Dezmediah. Below are a few projects.</p>
 
 <details>
   <summary><span>The Way That We’d Been Livin’</span></summary>
   <h3>The Way That We’d Been Livin’</h3>
   <p>My first album. 7 songs.</p>
-  <iframe style="border:0; width:350px; height:687px;"
-          src="https://bandcamp.com/EmbeddedPlayer/album=836865609/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/"
-          seamless>
-    <a href="https://dezmediah.bandcamp.com/album/the-way-that-wed-been-living">the way that we&#39;d been living by Dez Miller</a>
-  </iframe>
+  <iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=836865609/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/the-way-that-wed-been-living">the way that we&#39;d been living by Dez Miller</a></iframe>
 </details>
 
 <details>
   <summary><span>Beep Boop</span></summary>
   <h3>Beep Boop</h3>
   <p>An E.P. made entirely on an iPad.</p>
-  <iframe style="border:0; width:400px; height:274px;"
-          src="https://bandcamp.com/EmbeddedPlayer/album=3997699051/size=large/bgcol=ffffff/linkcol=e99708/artwork=small/transparent=true/"
-          seamless>
-    <a href="https://dezmediah.bandcamp.com/album/beep-boop">Beep Boop by Dezmediah</a>
-  </iframe>
+  <iframe style="border: 0; width: 400px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=3997699051/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/beep-boop">Beep Boop by Dez Miller</a></iframe>
 </details>
 
 <details>
