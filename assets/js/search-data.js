@@ -421,7 +421,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-text-mining-sci-fi-in-the-hathitrust-digital-library",
           title: 'text mining Sci-Fi in the HathiTrust Digital Library',
-          description: "",
+          description: "2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
