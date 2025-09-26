@@ -15,21 +15,16 @@ category: fun
   <iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=836865609/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/the-way-that-wed-been-living">the way that we&#39;d been living by Dez Miller</a></iframe>
 <p></p>
 
-<details>
-  <summary><span>Beep Boop</span></summary>
   <h3>Beep Boop</h3>
   <p>An E.P. made entirely on an iPad.</p>
   <iframe style="border: 0; width: 400px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=3997699051/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/beep-boop">Beep Boop by Dez Miller</a></iframe>
-</details>
 
-<details>
-  <summary><span> Demos: Adrianne Lenker Songwriting Class (School of Song)</summary>
+<p></p>
+
   <h3>Demos: Adrianne Lenker Songwriting Class (School of Song)</h3>
     <iframe style="border: 0; width: 400px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=2486985104/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/adrianne-lenker-songwriting-class-songs-demos">Adrianne Lenker Songwriting Class Songs (Demos) by Dez Miller</a></iframe>
-</details>
 
-<details>
-  <summary><span>Collaboration: Someday I’ll Find It</span></summary>
+    <p></p>
   <h3>Collaboration: Someday I’ll Find It</h3>
   <p>I sang on this album by Cass Lopez.</p>
   <iframe style="border:0; width:100%; height:42px;"
@@ -38,25 +33,10 @@ category: fun
     <a href="https://fordlopez.bandcamp.com/album/someday-ill-find-it">someday i&#39;ll find it by cassie lopez</a>
   </iframe>
 
-</details>
+<p></p>
 
-<details>
-  <summary><span>Music Videos</span></summary>
-  <section class="tiles">
-    <article class="style1">
-      <span class="image">
-        <img src="/assets/img/volcano.jpg" alt="Volcano thumbnail">
-      </span>
-      <a href="/AllIWant.html">
-        <h3>All I Want Is You</h3>
-        <div class="content">
-          <p>A video I made based on a Barry Louis Polisar cover.</p>
-        </div>
-        <div>
+<Robot Language>
+  <p> A video made at Dinacon 2019</p>
           <iframe width="950" height="495" src="https://www.youtube.com/embed/yU-WHco_emw?list=PLAA_ca8lZFe-T06zgnjfn4Vgft4CkjZwQ" title="Robot Language" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
-      </a>
-    </article>
-  </section>
-</details>
+   
 
