@@ -434,6 +434,11 @@ ninja.data = [{
           description: "a serialized sci-fi story",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-new-materialism-the-game",
+          title: 'New Materialism the Game',
+          description: "a demo game",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
