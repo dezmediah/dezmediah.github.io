@@ -2,7 +2,7 @@
 layout: page
 title: Searching for Latent River Cultures 
 description: published in *The Hungarian Journal for English and American Studies*, 2024
-img: assets/img/hjeas graph.png
+img: assets/img/hjeas_graph.png
 importance: 2
 category: work
 giscus_comments: false
