@@ -25,22 +25,21 @@ category: fun
 </details>
 
 <details>
-  <summary><span>Collaborations</span></summary>
-  <h3>Someday I’ll Find It</h3>
-  <p>I sang on this album by Cassie Lopez.</p>
+  <summary><span> Demos: Adrianne Lenker Songwriting Class (School of Song)</summary>
+  <h3>Demos: Adrianne Lenker Songwriting Class (School of Song)</h3>
+    <iframe style="border: 0; width: 400px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=2486985104/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/adrianne-lenker-songwriting-class-songs-demos">Adrianne Lenker Songwriting Class Songs (Demos) by Dez Miller</a></iframe>
+</details>
+
+<details>
+  <summary><span>Collaboration: Someday I’ll Find It</span></summary>
+  <h3>Collaboration: Someday I’ll Find It</h3>
+  <p>I sang on this album by Cass Lopez.</p>
   <iframe style="border:0; width:100%; height:42px;"
           src="https://bandcamp.com/EmbeddedPlayer/album=365512838/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/"
           seamless>
     <a href="https://fordlopez.bandcamp.com/album/someday-ill-find-it">someday i&#39;ll find it by cassie lopez</a>
   </iframe>
 
-  <h3>LRV1: Room for the Life</h3>
-  <p>One of my tracks from “Beep Boop” was selected for this compilation.</p>
-  <iframe style="border:0; width:100%; height:120px;"
-          src="https://bandcamp.com/EmbeddedPlayer/album=2144744736/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
-          seamless>
-    <a href="https://fordlopez.bandcamp.com/album/lrv1-room-for-the-life">LRV1: ROOM FOR THE LIFE by various artists</a>
-  </iframe>
 </details>
 
 <details>
