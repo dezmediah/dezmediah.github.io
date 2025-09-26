@@ -6,6 +6,7 @@ img: assets/img/rob_lang.jpg
 importance: 1
 category: fun
 ---
+<html>
 <!-- actual music links -->
 							<p>I record music under the moniker Dezmediah. All my music can be found under dezmediah.bandcamp.com or on spotify under Dezmediah. Below are some particular projects I've picked out to show here.</p>
 							<details>
@@ -53,4 +54,5 @@ category: fun
 										</div>
 									</a>
 								</article>
+</html>
 
