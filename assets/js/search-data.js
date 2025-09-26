@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "This page is in progress. For some of my older creative projects, see https://dezmediah.github.io/Dezmediah-site/",
+          description: "This page is in progress.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
