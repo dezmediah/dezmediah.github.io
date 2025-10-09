@@ -7,13 +7,17 @@ nav_order: 4
 toc: false
 ---
 
-<div style="height:80vh">
+<style>
+.cv-frame-wrap { height: 80vh; overflow: hidden; }
+.cv-frame-wrap iframe { width: 100%; height: 100%; border: 0; display: block; }
+</style>
+
+<div class="cv-frame-wrap">
   <iframe
     src="{{ '/assets/pdf/DMiller_CV_fall_2025.pdf' | relative_url }}"
-    width="100%"
-    height="100%"
-    style="border:0;"
-  ><p>
-  <a href="{{ '/assets/pdf/DMiller_CV_fall_2025.pdf' | relative_url }}" download>Download PDF</a>
-</p></iframe>
+    loading="lazy"
+    title="Dez Miller — CV (PDF)">
+  </iframe>
 </div>
+
+<p><a href="{{ '/assets/pdf/DMiller_CV_fall_2025.pdf' | relative_url }}" download>Download PDF</a></p>
