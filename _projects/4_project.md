@@ -17,7 +17,7 @@ category: fun
 
   <h3>Beep Boop</h3>
   <p>An E.P. made entirely on an iPad.</p>
-  <iframe style="border: 0; width: 400px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=3997699051/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/beep-boop">Beep Boop by Dez Miller</a></iframe>
+  <iframe style="border: 0; width: 400px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=2486985104/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/adrianne-lenker-songwriting-class-songs-demos">Adrianne Lenker Songwriting Class Songs (Demos) by Dez Miller</a></iframe>
 
 <p></p>
 
@@ -27,11 +27,7 @@ category: fun
     <p></p>
   <h3>Collaboration: Someday I’ll Find It</h3>
   <p>I sang on this album by Cass Lopez.</p>
-  <iframe style="border:0; width:100%; height:42px;"
-          src="https://bandcamp.com/EmbeddedPlayer/album=365512838/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/"
-          seamless>
-    <a href="https://fordlopez.bandcamp.com/album/someday-ill-find-it">someday i&#39;ll find it by cassie lopez</a>
-  </iframe>
+ <iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=365512838/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://fordlopez.bandcamp.com/album/someday-ill-find-it">someday i&#39;ll find it by cassie lopez</a></iframe>
 
 <p></p>
 
