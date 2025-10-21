@@ -439,6 +439,11 @@ ninja.data = [{
           description: "a demo game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-soundscapes-worth-saving",
+          title: 'Soundscapes Worth Saving',
+          description: "an ongoing collection of soundscapes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
