@@ -6,7 +6,7 @@ subtitle: <a href='#'> PhD Candidate, Emory University</a>.
 
 profile:
   align: right
-  image: image.jpg
+  image: "<img src='image.jpg' style='width:150px; border-radius:50%;'/>"
   image_circular: true
   
 ---
