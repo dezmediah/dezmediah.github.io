@@ -5,6 +5,7 @@ on:
     types: [prettier-failed-on-pr]
 
 jobs:
+if: ${{ false }}
   comment:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
