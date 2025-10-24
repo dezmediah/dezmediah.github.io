@@ -23,11 +23,6 @@ category: fun
 					<header id="header">
 						<div class="inner">
 
-							<!-- Logo -->
-								<a href="index.html" class="logo">
-									<span class="symbol"><img src="images/logo.gif" alt="dez miller website logo" /></span><span class="title">Dez Miller</span>
-								</a>
-
 					</header>
 
 				<!-- Main -->
