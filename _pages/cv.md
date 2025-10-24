@@ -11,7 +11,7 @@ toc: false
 .cv-frame-wrap { height: 80vh; overflow: hidden; }
 .cv-frame-wrap iframe { width: 100%; height: 100%; border: 0; display: block; }
 </style>
-<p><a href="{{ '/assets/pdf/DMiller_CV_fall_2025.pdf' | relative_url }}" download>Download PDF</a></p>
+<p><a href="{{ '/assets/pdf/CV_fall_2025.pdf' | relative_url }}" download>Download PDF</a></p>
 <div class="cv-frame-wrap">
   <iframe
     src="{{ '/assets/pdf/CV_fall_2025.pdf' | relative_url }}"
