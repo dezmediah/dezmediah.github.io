@@ -10,26 +10,11 @@ category: fun
 <html>
 	<head>
 		<title>That Strange Sensation</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
-		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Header -->
-					<header id="header">
-						<div class="inner">
-
-					</header>
-
 				<!-- Main -->
 					<div id="main"> 
 						<div class="inner">
 							<h1>That Strange Sensation</h1>
-							<article><span class="image"><img src=images/tss-1.jpg alt text="that strange sensation logo" style="width:300px;height:300px;"> </img></span></article>
+							<article><span class="image"><img src=images/tss.jpg alt text="that strange sensation logo" style="width:300px;height:300px;"> </img></span></article>
 							<p><h9>This was a serialized short story I sent by email to participants of Dinacon 2019. (THe Digital Naturalism Conference). <details>
 								<summary><h8><em>The End. Part Ten.</em></h8></summary>
 								<p>Starting the next day, Caroline and the rest of the Directive (the group’s new name for the director-worshippers) begin snorkeling recklessly in the waters of Apocalypta. After each excursion, they emerge on the shore shivering, sometimes vomiting, their expressions pale and vacant.</p>
