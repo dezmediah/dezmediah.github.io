@@ -4,7 +4,7 @@ title: New Materialism the Game
 description: a demo game
 img: assets/img/game.png
 importance: 3
-category: creative
+category: making
 ---
 
 <p> For a digital humanities class, I made a short game in Unity in which a player is asked by philosopher Jane Bennett (Vibrant Matter) to take a vote of objects. I hope to make more games in the future. </p>
