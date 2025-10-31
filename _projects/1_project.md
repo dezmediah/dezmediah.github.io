@@ -5,7 +5,7 @@ description: produced at DinaCon 2019, published in Always Crashing in Fall 2021
 img: assets/img/poems.png
 importance: 1
 category: creative
-giscus_comments: false
+giscus_comments: making
 ---
 
 These are two electronic poems I wrote, which were published in the journal [*Always Crashing*](https://www.alwayscrashing.com/current/2021/10/6/dez-miller-2-regenerating-poems) in Fall 2021. To read them now, click below. Poems will automatically re-generate every 15 seconds, or you can refresh the page to read another version.
