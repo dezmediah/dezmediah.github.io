@@ -14,6 +14,12 @@ nav: true
 
 <div style="border-top:2px solid var(--global-text-color); margin:2rem 0;"></div>
 
+### Journalism
+
+<div class="publications">
+{% bibliography --query @*[keywords~=journalism] %}
+</div>
+
 ### Creative Writing
 
 <div class="publications">
