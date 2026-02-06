@@ -439,6 +439,11 @@ ninja.data = [{
           description: "an ongoing collection of soundscapes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-communicating-ai-s-water-impact-through-public-textile-art",
+          title: 'Communicating AI’s Water Impact through Public Textile Art',
+          description: "funded by AIAI",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
