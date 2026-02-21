@@ -4,7 +4,7 @@ title: Soundscapes Worth Saving
 description: an ongoing collection of soundscapes
 img: assets/img/scapes.png
 importance: 2
-category: ongoing
+category: academic-creative
 ---
 <p> I'm interested in the way sound data captures information, affects, feelings, plant life, and social relations from particular moments in time, which will never be repeated again. This collection can be used to make music, as data, or as ambient background noise. </p>
 
