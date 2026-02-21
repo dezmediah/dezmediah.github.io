@@ -444,9 +444,9 @@ ninja.data = [{
           description: "funded by AIAI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-city-water-the-cultural-power-of-urban-rivers",
+          title: 'City Water: The Cultural Power of Urban Rivers',
+          description: "My dissertation, to be completed April 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
