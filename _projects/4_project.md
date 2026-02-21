@@ -18,7 +18,6 @@ category: creative
   <h3>Beep Boop</h3>
   <p>An E.P. made entirely on an iPad. 2018</p>
   <iframe style="border: 0; width: 400px; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=2486985104/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://dezmediah.bandcamp.com/album/adrianne-lenker-songwriting-class-songs-demos">Adrianne Lenker Songwriting Class Songs (Demos) by Dez Miller</a></iframe>
-
 <p></p>
 
   <h3>Demos: Adrianne Lenker Songwriting Class (School of Song)</h3>
