@@ -444,6 +444,11 @@ ninja.data = [{
           description: "funded by AIAI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
