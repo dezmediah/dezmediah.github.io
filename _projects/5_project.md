@@ -4,7 +4,7 @@ title: That Strange Sensation
 description: a serialized sci-fi story
 img: assets/img/tss.jpg
 importance: 5
-category: archived
+category: creative
 ---
 
 <html>
@@ -14,7 +14,7 @@ category: archived
 					<div id="main"> 
 						<div class="inner">
 							<h1>That Strange Sensation</h1>
-							<article><span class="image"><img src=images/tss.jpg alt text="that strange sensation logo" style="width:300px;height:300px;"> </img></span></article>
+							<article><span class="image"><img src=images/publication_preview/tss.jpg alt text="that strange sensation logo" style="width:300px;height:300px;"> </img></span></article>
 							<p><h9>This was a serialized short story I sent by email to participants of Dinacon 2019. (The Digital Naturalism Conference). The goal was to explore themes from the conference, non-social-media methods for maintaining community online, and the genres of pulp science fiction and the serialized story in general. This was also a way to process a five-month sabbatical in southeast Asia I took, which included a month of SCUBA diving with Core Sea, a nonprofit on the Gulf of Thailand that collects data on fish populations and coral bleaching for the Thai government.<details>
 								<summary><h8><em>The End. Part Ten.</em></h8></summary>
 								<p>Starting the next day, Caroline and the rest of the Directive (the group’s new name for the director-worshippers) begin snorkeling recklessly in the waters of Apocalypta. After each excursion, they emerge on the shore shivering, sometimes vomiting, their expressions pale and vacant.</p>
