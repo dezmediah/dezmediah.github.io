@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This page is in progress.
+description: Ongoing and creative projects, including collaborations and experimental work, whether or not they have resulted in publication.
 nav: true
 nav_order: 3
 display_categories: [academic, academic-creative, creative]
