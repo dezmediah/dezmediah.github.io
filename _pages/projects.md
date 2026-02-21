@@ -5,7 +5,7 @@ permalink: /projects/
 description: This page is in progress.
 nav: true
 nav_order: 3
-display_categories: [ongoing, past]
+display_categories: [academic, academic-creative, creative]
 horizontal: false
 ---
 
