@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "City Water: The Cultural Power of Urban Rivers"
-description: My dissertation, to be completed April 2026.
+description: "My dissertation, to be completed April 2026."
 img: img: assets/img/publication_preview/screenshot%20of%20river%20article.png
 importance: 1
 category: academic
