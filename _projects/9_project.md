@@ -1,8 +1,8 @@
 ---
 layout: page
-title: City Water: Stories of Urban Rivers
+title: City Water: The Cultural Power of Urban Rivers
 description: My dissertation, to be completed April 2026.
-img: assets/img/publication_preview/screenshot of river article.png
+img: img: assets/img/publication_preview/screenshot%20of%20river%20article.png
 importance: 1
 category: academic
 giscus_comments: false
