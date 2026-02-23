@@ -6,85 +6,82 @@ img: assets/img/tss.jpg
 importance: 5
 category: creative
 ---
-
-<html>
-	<head>
-		<title>That Strange Sensation</title>
+		<h1>That Strange Sensation</h2>
 				<!-- Main -->
-					<div id="main"> 
-						<div class="inner">
-							<p><h9>This was a serialized short story I sent by email to participants of Dinacon 2019 (The Digital Naturalism Conference). The goal was to explore themes from the un-conference, non-social-media methods for maintaining community online, and the genres of pulp science fiction and the serialized story in general. This was also a way to process a five-month sabbatical in southeast Asia I took, which included an internship where I performed daily underwater research while SCUBA diving with CORE SEa, a nonprofit on the Gulf of Thailand that collects data on fish populations and coral bleaching for the Thai government.<details>
-								<summary><h8><em>The End. Part Ten.</em></h8></summary>
-								<p>Starting the next day, Caroline and the rest of the Directive (the group’s new name for the director-worshippers) begin snorkeling recklessly in the waters of Apocalypta. After each excursion, they emerge on the shore shivering, sometimes vomiting, their expressions pale and vacant.</p>
-								<p>Upon close inspection, the Directive discovers the crates are attached to a concrete platform in the seafloor by thick, rusted, metal chains. In short, they cannot be moved. Just to complicate things, each crate apparently has a combination lock attached to it, preventing the top lid from being pried off.</p>
-								<p>Caroline’s group fiddles with these locks a bit, and tries to figure out other methods of opening the crates too, but they’re ultimately unsuccessful. Their work is hampered by the fact that they can’t last ten minutes in Apocalypta without beginning to feel violently ill.</p>
-								<p>Paul, George, Tess, L, and Ivy sit on the beach numbly watching the Directive take shifts throughout the day. They venture out in groups of three, rowing close to the dark waters—Paul, L, and the others forbid them from taking the boat into Apocalypta—before jumping out, going for a short swim, then weakly rowing back to shore to be replaced by another group.</p>
-								<p>“If we can’t bring the crates to us,” says Ivy toward the afternoon, as they eat yet another lunch of rice and beans, this time with some wild amaranth, “could we establish some kind of safe passageway to the crates?”</p>
-								<p>The group determines it’s not a bad idea. That way they wouldn’t have to clean the whole of Apocalpyta, just a narrow pathway. They begin to envision a sort of roof-less tunnel, some kind of barrier in the water. All the methods they can think up are imperfect. They do not have concrete, nor steel, nor any other impermeable wall-building materials. Plus, the shallowest part of the water out near the crates is still at least five meters deep, so if they were to build some kind of retaining wall, it would require a heck of a lot of material.</p>
-								<p>Over the next four days, they spend a lot of time planning, arguing, and discussing. The only actual progress they make is that they successfully braid together a floating bamboo garden bed. They fill it with plants they find around the island that have daily contact with saltwater and seemed to thrive in it. </p>
-								<p>On the final day, when there are only a few hours left in the whale’s timer, they row out to Apocalypta and push the garden bed toward the border. Then they ask a Directive member to use a long rope to anchor the bed to one of the crates. That way it won’t float off into deeper Apocalypta, and they can monitor its progress, watching for any paultsakes, which Paul reckons should form within a week if their experiment is successful.</p>
-								<p>When the timer goes off, all thirty-five residents of the island are watching the whale from the shore. It is mid-afternoon with a hot sun and they bake, unwilling to move into shade and miss what might be the end of the world. At the moment of 0:0:0, the bryde whale breaches, arching high in the air, leaving the water entirely, before slamming back down, sending a huge wave their way. By the time the wave reaches them, the whale has gone under. It does not reappear.</p>
-								<p>The Directive moans and wails and begins performing their rituals. They catch and eat a snake. Finally, L is able to observe their fishing technique. They track a snake into its hiding place under a rock. Quietly, carefully, they use surrounding rocks and coral to build a pathway. Then one of them lifts the rock at an angle, opening the side facing the pathway. The snake darts out, and, unable to engage in its natural zig-zag swimming style, it swims directly into the baseball cap that Jason has set as a trap at the end of the tunnel. Then, with Jason’s raw, savage bite into its middle, it’s lights out for the purple snake.</p>
-								<p>In any case, by evening, the Directive is exhausted, quietly crying and grieving on the beach. Everyone else has moved on. </p>
-								<p>“I knew it,” Tess allows herself to say. “I knew it was a trick.”</p>
-								<p>“I guess so,” says L, though she has a sinking feeling that with this failure they are now trapped here. Maybe forever.</p>
+<p><h5>This was a serialized short story I sent by email to participants of Dinacon 2019 (The Digital Naturalism Conference). The goal was to explore themes from the un-conference, non-social-media methods for maintaining community online, and the genres of pulp science fiction and the serialized story in general. This was also a way to process a five-month sabbatical in southeast Asia I took, which included an internship where I performed daily underwater research while SCUBA diving with CORE SEa, a nonprofit on the Gulf of Thailand that collects data on fish populations and coral bleaching for the Thai government.<details>
+
+<details>
+<summary><h8><em>The End. Part Ten.</em></h8></summary>
+<p>Starting the next day, Caroline and the rest of the Directive (the group’s new name for the director-worshippers) begin snorkeling recklessly in the waters of Apocalypta. After each excursion, they emerge on the shore shivering, sometimes vomiting, their expressions pale and vacant.</p>
+<p>Upon close inspection, the Directive discovers the crates are attached to a concrete platform in the seafloor by thick, rusted, metal chains. In short, they cannot be moved. Just to complicate things, each crate apparently has a combination lock attached to it, preventing the top lid from being pried off.</p>
+<p>Caroline’s group fiddles with these locks a bit, and tries to figure out other methods of opening the crates too, but they’re ultimately unsuccessful. Their work is hampered by the fact that they can’t last ten minutes in Apocalypta without beginning to feel violently ill.</p>
+<p>Paul, George, Tess, L, and Ivy sit on the beach numbly watching the Directive take shifts throughout the day. They venture out in groups of three, rowing close to the dark waters—Paul, L, and the others forbid them from taking the boat into Apocalypta—before jumping out, going for a short swim, then weakly rowing back to shore to be replaced by another group.</p>
+<p>“If we can’t bring the crates to us,” says Ivy toward the afternoon, as they eat yet another lunch of rice and beans, this time with some wild amaranth, “could we establish some kind of safe passageway to the crates?”</p>
+<p>The group determines it’s not a bad idea. That way they wouldn’t have to clean the whole of Apocalpyta, just a narrow pathway. They begin to envision a sort of roof-less tunnel, some kind of barrier in the water. All the methods they can think up are imperfect. They do not have concrete, nor steel, nor any other impermeable wall-building materials. Plus, the shallowest part of the water out near the crates is still at least five meters deep, so if they were to build some kind of retaining wall, it would require a heck of a lot of material.</p>
+<p>Over the next four days, they spend a lot of time planning, arguing, and discussing. The only actual progress they make is that they successfully braid together a floating bamboo garden bed. They fill it with plants they find around the island that have daily contact with saltwater and seemed to thrive in it. </p>
+<p>On the final day, when there are only a few hours left in the whale’s timer, they row out to Apocalypta and push the garden bed toward the border. Then they ask a Directive member to use a long rope to anchor the bed to one of the crates. That way it won’t float off into deeper Apocalypta, and they can monitor its progress, watching for any paultsakes, which Paul reckons should form within a week if their experiment is successful.</p>
+<p>When the timer goes off, all thirty-five residents of the island are watching the whale from the shore. It is mid-afternoon with a hot sun and they bake, unwilling to move into shade and miss what might be the end of the world. At the moment of 0:0:0, the bryde whale breaches, arching high in the air, leaving the water entirely, before slamming back down, sending a huge wave their way. By the time the wave reaches them, the whale has gone under. It does not reappear.</p>
+<p>The Directive moans and wails and begins performing their rituals. They catch and eat a snake. Finally, L is able to observe their fishing technique. They track a snake into its hiding place under a rock. Quietly, carefully, they use surrounding rocks and coral to build a pathway. Then one of them lifts the rock at an angle, opening the side facing the pathway. The snake darts out, and, unable to engage in its natural zig-zag swimming style, it swims directly into the baseball cap that Jason has set as a trap at the end of the tunnel. Then, with Jason’s raw, savage bite into its middle, it’s lights out for the purple snake.</p>
+<p>In any case, by evening, the Directive is exhausted, quietly crying and grieving on the beach. Everyone else has moved on. </p>
+<p>“I knew it,” Tess allows herself to say. “I knew it was a trick.”</p>
+<p>“I guess so,” says L, though she has a sinking feeling that with this failure they are now trapped here. Maybe forever.</p>
 								<p>*</p>
-								<p>Five years later. There are twenty of them left. At least ten died from radiation poisoning, with several causes of death ambiguous—did Caroline accidentally get knocked cold by a coconut, or was she inattentive to the sound of the heavy fruit snapping off the branch, lethargic as she was by then? Did Jason die from the flu, or had his immune system been compromised from the radiation poisoning? That one was hardly a question anymore. It was only the few survivors of the Directive that asserted the ones that died from common illnesses had had bad luck and not poor judgment.</p>
-								<p>There had been three suicides, and they weren’t the people you might’ve expected. The ones who gave up had a look in their eyes as if they could never really settle into the delusion that was their reality. You had to be a bit crazy to survive, was the thing. The ones who were too attached to their normal lives, too comfortable with their natural points of view, were the ones that couldn’t cut it.</p>
-								<p>It took three years to clear a safe pathway to one of the crates. Paul’s mushrooms worked, but slowly, especially at first. Initially, they only had the few beds, which did indeed become thick with <em>paultsake</em> mushrooms, especially once they figured out which plants were best for <em>paulstake</em> cultivation. Once the tightly braided bamboo walls, thick with oyster mushroom mycelium mats, were put in place, the group really began to have some hope. But it was the snakes that finally ramped up the pace of removal of radiation, oil, and heavy elements.</p>
-								<p>On one of Jason’s last expeditions to Apocalypta, he’d discovered that the purple snakes seemed to love the <em>paulstakes</em>. One had heaved its little body up into the garden bed and was chowing down. Another few had attached to the walls.</p>
-								<p>Once L started breeding the snakes, the <em>paultsakes</em> could be cleared out more readily, and so they began to produce more often too. Over the course of a year, the water, slowly but surely, went from completely opaque black to a slightly translucent dark gray with a shine of green. By the end of the third year the water in between the bamboo walls and floating garden beds looked similar to the Hudson River. You wouldn’t want to swim in it, but it didn’t look like you’d immediately die either. Once the radiation had gone down to .3 sieverts, they began taking daily trips out to the crate. </p>
-								<p>One day, about six months into these trips, Brendan motions that he wants to join them. They don't think too much of it. As soon as he swims up to the crate, he puts in a code and opens the lock.</p>
-								<p>“What the hell, Brendan? How the fuck?”</p>
-								<p>He shrugs, as if to say that to explain it via hand signals would be impossible. Then, he pries the top open. There is nothing inside.</p>
+<p>Five years later. There are twenty of them left. At least ten died from radiation poisoning, with several causes of death ambiguous—did Caroline accidentally get knocked cold by a coconut, or was she inattentive to the sound of the heavy fruit snapping off the branch, lethargic as she was by then? Did Jason die from the flu, or had his immune system been compromised from the radiation poisoning? That one was hardly a question anymore. It was only the few survivors of the Directive that asserted the ones that died from common illnesses had had bad luck and not poor judgment.</p>
+<p>There had been three suicides, and they weren’t the people you might’ve expected. The ones who gave up had a look in their eyes as if they could never really settle into the delusion that was their reality. You had to be a bit crazy to survive, was the thing. The ones who were too attached to their normal lives, too comfortable with their natural points of view, were the ones that couldn’t cut it.</p>
+<p>It took three years to clear a safe pathway to one of the crates. Paul’s mushrooms worked, but slowly, especially at first. Initially, they only had the few beds, which did indeed become thick with <em>paultsake</em> mushrooms, especially once they figured out which plants were best for <em>paulstake</em> cultivation. Once the tightly braided bamboo walls, thick with oyster mushroom mycelium mats, were put in place, the group really began to have some hope. But it was the snakes that finally ramped up the pace of removal of radiation, oil, and heavy elements.</p>
+<p>On one of Jason’s last expeditions to Apocalypta, he’d discovered that the purple snakes seemed to love the <em>paulstakes</em>. One had heaved its little body up into the garden bed and was chowing down. Another few had attached to the walls.</p>
+<p>Once L started breeding the snakes, the <em>paultsakes</em> could be cleared out more readily, and so they began to produce more often too. Over the course of a year, the water, slowly but surely, went from completely opaque black to a slightly translucent dark gray with a shine of green. By the end of the third year the water in between the bamboo walls and floating garden beds looked similar to the Hudson River. You wouldn’t want to swim in it, but it didn’t look like you’d immediately die either. Once the radiation had gone down to .3 sieverts, they began taking daily trips out to the crate. </p>
+<p>One day, about six months into these trips, Brendan motions that he wants to join them. They don't think too much of it. As soon as he swims up to the crate, he puts in a code and opens the lock.</p>
+<p>“What the hell, Brendan? How the fuck?”</p>
+<p>He shrugs, as if to say that to explain it via hand signals would be impossible. Then, he pries the top open. There is nothing inside.</p>
 								<p>*</p>
-								<p>When they get back to shore, a man is waiting for them. He wears a fancy button-down shirt and gray slacks. He’s taken off his shoes, which are a freshly shined pair of loafers. No one new has arrived on the island for four years. And this man does not sport the expression of a new arrival—he doesn’t look confused, or weakened. He is smiling.</p>
-								<p>“Uh, hi?” says L.</p>
-								<p>“Hi! I’m the director! Congratulations, you won!”</p>
-								<p>“We won?” asks Paul.</p>
-								<p>“Yeah! You figured out how to clean up that nasty, nasty water out there and open the crates!”</p>
-								<p>“Yeah,” says Ivy.</p>
-								<p>L’s heart is pounding. She's angry. She looks around. The others seem to be having similar reactions.</p>
-								<p>“So, what the fuck do we win, then?” says Ivy.</p>
-								<p>“Well, you will be written up in our scientific journals and awarded  the patent for this ecological clean up system you’ve created!” He's cheery.</p>
-								<p>Paul laughs. “<em>Your scientific journals? In the year…”</em></p>
-								<p>“Oh,” the man says. “I’m from the year 2140. Basically, by my year, climate change has really gone off the rails. It’s really bad. Everything’s hot and polluted.” He frowns. “I’m lucky enough to have survived. Basically, most of the people left are lucky, like me. <em>Wealthy,</em> I mean.” He half-smiles. “So a group of us men… <em>and some women</em>”—he winks at L—“decided to throw a little competition between us. To see if we could gather scientists from the past to have like a little hackathon. We figured if we could get you guys to come to some sort of situation where’d you’d have all the tools you need and you’d really <em>feel the pressure</em> to succeed, maybe you’d finally learn how to fix some of the problems that are leading to the destruction of Earth, ya know?”</p>
-								<p>“So,” says Tess, speaking slowly. “This was all a <em>game</em> for <em>rich people</em> in the <em>future?</em>”</p>
-								<p>The director laughs. “Well you could put it like that if ya wanna! But, haven’t you guys learned stuff here? I’m hoping you’ll take that back to your time and put it to use! And then maybe the Earth won’t get so fucked up, ya know?”</p>
-								<p>“Well, what if we do? What happens to your timeline?” Paul spoke in a biting tone, as if implying he hoped the director's timeline would be obliterated. </p>
-								<p>“I’m not sure,” the director says thoughtfully. “Probably, though—what most seem to think—is that my timeline will stay as it is. <em>Our</em> biggest hope is probably finding another planet to be honest. We're not as lucky as you all. If you guys change things, you’ll probably just sprout another timeline.” He shrugs. “A better one hopefully, which you’ll live out.”</p>
-								<p>“So just to sum things up,” says Ivy. “You forced us here without our consent. Ten people have <em>died</em>.”</p>
-								<p>“Oh I’m not sure they died back in your timeline, though.”</p>
-								<p>“You’re not <em>sure</em>? Wow. You are realllyyyy a dick, sir,” says Tess.</p>
-								<p>“Yeah, yeah ya are,” says Paul.</p>
-								<p>"And all that shit with the whale was just to fuck with us then?" L asks.</p>
-								<p>"I had to find a way to <em>increase the pressure</em>! And it worked, didn't it?" He grinned falsely. "Now you all know things you can bring back to your world. I might've saved your whole timeline!”</p>
-								<p>"YOU might have SAVED OUR WHOLE TIMELINE?" yells Tess. The whole crowd begins screaming at him. It’s as if all their anger, all their confusion from the last three years, is finally able to be released now. The man tries to keep up a smile at first, tries to calm them down, but when they start surrounding him, he gets a panicked look on his face and suddenly, loudly, claps his hands.</p>
-								<p>*</p>
-								<p>When L returns, she is in her bed. She looks at her phone. <em>A phone, holy shit, what an amazing device.</em> It’s 9am. There are three messages from E. The first says. “Are you okay? Check in.” The second says, “My God, I hope you are just sleeping. Let me know when you wake up.”</p>
-								<p>The third is from a few minutes ago. “L, for the love of God, are you better? Are you coming in today? Should I come by and see you?”</p>
-								<p>She’s late for work. She texts E. “Be there soon.” Letting herself move forward on autopilot, she washes her face, dresses, and gets on her motorbike.</p>
-								<p>On her way to work, she sees the dog that she remembers lunging at her once. He’s zonked out on the side of the road. The sound of her motorbike makes him lift his head. As she passes, he wags his tail.</p>
-								<p>When she walks into the lab, E gets up. “Oh, honey how are you doing?”</p>
-								<p>“I’m okay, I think.”</p>
-								<p>“You worried us so much yesterday—you were so pale when we got out of the water.”</p>
-								<p>“Yesterday? Wow.”</p>
-								<p>“Yes, yesterday, you were acting so strange, too. Barely speaking. I was so afraid.”</p>
-								<p>“And then I went home, I guess? I didn't enter any data?”</p>
-								<p>“You don’t remember, honey? Oh no.” E examines her face. “You look better today, though. In fact, you look very very tan. And skinny!” She picks up L’s wrist. “Oh, you’re too skinny!”</p>
-								<p>“Well, I’ve basically just been eating legumes for a long time.”</p>
-								<p>E looks at her confused. “We eat pad see ew all the time, honey. I think there’s something wrong. I think you need to go to a doctor, it’s not good to lose weight like this so fast.”</p>
-								<p>“Okay, I’ll go to the doctor. Tomorrow though. I want to get in the water today.”</p>
-								<p>“If you say so.” E shrugs.</p>
-								<p>Their research that day goes fine. After an hour of counting coral, when L ascends, she feels no hint of that strange sensation. All is normal, natural, as normal and natural as things can feel after you've spent an extended amount of time underwater.</p>
-								<p>That afternoon, after they’ve entered the day’s data, they walk up the street to the neighborhood’s best restaurant and eat some pad see ew.  It tastes immeasurably good. L orders a thai iced tea as well, and inhales it in a couple sips. She feels fortified.</p>
-								<p>They sit there silently for a moment. E is watching an American Western on the TV, which is behind L’s head.</p>
-								<p>“E,” she says. “I have to leave next week. I need to meet a man named Paul in the U.K.”</p>
-								<p>“Oh, is it a boyfriend?” she says distractedly.</p>
-								<p>“I don’t think so. Although, there were a few nights we were... a comfort to each other.”</p>
-								<p>“Okay, then.” E purses her lips and nods. “Well, how long will you be gone?”</p>
-								<p>“I don’t know. Paul and I, we have a lot to figure out. We have to figure out how to stop climate change. We have to figure out how to clean up our oceans. I think mushrooms will help. We'll have to meet up with Tess, and Ivy, and the others, too. And then, and then…” L finds herself slightly breathless. “And then we have to figure out how to stop all the rich people from losing all sense of morality and ethics and consolidating power to the point where everyone else is essentially a pawn in their game.” </p>
-							</details>
+<p>When they get back to shore, a man is waiting for them. He wears a fancy button-down shirt and gray slacks. He’s taken off his shoes, which are a freshly shined pair of loafers. No one new has arrived on the island for four years. And this man does not sport the expression of a new arrival—he doesn’t look confused, or weakened. He is smiling.</p>
+<p>“Uh, hi?” says L.</p>
+<p>“Hi! I’m the director! Congratulations, you won!”</p>
+<p>“We won?” asks Paul.</p>
+<p>“Yeah! You figured out how to clean up that nasty, nasty water out there and open the crates!”</p>
+<p>“Yeah,” says Ivy.</p>
+<p>L’s heart is pounding. She's angry. She looks around. The others seem to be having similar reactions.</p>
+<p>“So, what the fuck do we win, then?” says Ivy.</p>
+<p>“Well, you will be written up in our scientific journals and awarded  the patent for this ecological clean up system you’ve created!” He's cheery.</p>
+<p>Paul laughs. “<em>Your scientific journals? In the year…”</em></p>
+<p>“Oh,” the man says. “I’m from the year 2140. Basically, by my year, climate change has really gone off the rails. It’s really bad. Everything’s hot and polluted.” He frowns. “I’m lucky enough to have survived. Basically, most of the people left are lucky, like me. <em>Wealthy,</em> I mean.” He half-smiles. “So a group of us men… <em>and some women</em>”—he winks at L—“decided to throw a little competition between us. To see if we could gather scientists from the past to have like a little hackathon. We figured if we could get you guys to come to some sort of situation where’d you’d have all the tools you need and you’d really <em>feel the pressure</em> to succeed, maybe you’d finally learn how to fix some of the problems that are leading to the destruction of Earth, ya know?”</p>
+<p>“So,” says Tess, speaking slowly. “This was all a <em>game</em> for <em>rich people</em> in the <em>future?</em>”</p>
+<p>The director laughs. “Well you could put it like that if ya wanna! But, haven’t you guys learned stuff here? I’m hoping you’ll take that back to your time and put it to use! And then maybe the Earth won’t get so fucked up, ya know?”</p>
+<p>“Well, what if we do? What happens to your timeline?” Paul spoke in a biting tone, as if implying he hoped the director's timeline would be obliterated. </p>
+<p>“I’m not sure,” the director says thoughtfully. “Probably, though—what most seem to think—is that my timeline will stay as it is. <em>Our</em> biggest hope is probably finding another planet to be honest. We're not as lucky as you all. If you guys change things, you’ll probably just sprout another timeline.” He shrugs. “A better one hopefully, which you’ll live out.”</p>
+<p>“So just to sum things up,” says Ivy. “You forced us here without our consent. Ten people have <em>died</em>.”</p>
+<p>“Oh I’m not sure they died back in your timeline, though.”</p>
+<p>“You’re not <em>sure</em>? Wow. You are realllyyyy a dick, sir,” says Tess.</p>
+<p>“Yeah, yeah ya are,” says Paul.</p>
+<p>"And all that shit with the whale was just to fuck with us then?" L asks.</p>
+<p>"I had to find a way to <em>increase the pressure</em>! And it worked, didn't it?" He grinned falsely. "Now you all know things you can bring back to your world. I might've saved your whole timeline!”</p>
+<p>"YOU might have SAVED OUR WHOLE TIMELINE?" yells Tess. The whole crowd begins screaming at him. It’s as if all their anger, all their confusion from the last years, is finally able to be released now. The man tries to keep up a smile at first, tries to calm them down, but when they start surrounding him, he gets a panicked look on his face and suddenly, loudly, claps his hands.</p>
+<p>*</p>
+<p>When L returns, she is in her bed. She looks at her phone. <em>A phone, holy shit, what an amazing device.</em> It’s 9am. There are three messages from E. The first says. “Are you okay? Check in.” The second says, “My God, I hope you are just sleeping. Let me know when you wake up.”</p>
+<p>The third is from a few minutes ago. “L, for the love of God, are you better? Are you coming in today? Should I come by and see you?”</p>
+<p>She’s late for work. She texts E. “Be there soon.” Letting herself move forward on autopilot, she washes her face, dresses, and gets on her motorbike.</p>
+<p>On her way to work, she sees the dog that she remembers lunging at her once. He’s zonked out on the side of the road. The sound of her motorbike makes him lift his head. As she passes, he wags his tail.</p>
+<p>When she walks into the lab, E gets up. “Oh, honey how are you doing?”</p>
+<p>“I’m okay, I think.”</p>
+<p>“You worried us so much yesterday—you were so pale when we got out of the water.”</p>
+<p>“Yesterday? Wow.”</p>
+<p>“Yes, yesterday, you were acting so strange, too. Barely speaking. I was so afraid.”</p>
+<p>“And then I went home, I guess? I didn't enter any data?”</p>
+<p>“You don’t remember, honey? Oh no.” E examines her face. “You look better today, though. In fact, you look very very tan. And skinny!” She picks up L’s wrist. “Oh, you’re too skinny!”</p>
+<p>“Well, I’ve basically just been eating legumes for a long time.”</p>
+<p>E looks at her confused. “We eat pad see ew all the time, honey. I think there’s something wrong. I think you need to go to a doctor, it’s not good to lose weight like this so fast.”</p>
+<p>“Okay, I’ll go to the doctor. Tomorrow though. I want to get in the water today.”</p>
+<p>“If you say so.” E shrugs.</p>
+<p>Their research that day goes fine. After an hour of counting coral, when L ascends, she feels no hint of that strange sensation. All is normal, natural, as normal and natural as things can feel after you've spent an extended amount of time underwater.</p>
+<p>That afternoon, after they’ve entered the day’s data, they walk up the street to the neighborhood’s best restaurant and eat some pad see ew.  It tastes immeasurably good. L orders a thai iced tea as well, and inhales it in a couple sips. She feels fortified.</p>
+<p>They sit there silently for a moment. E is watching an American Western on the TV, which is behind L’s head.</p>
+<p>“E,” she says. “I have to leave next week. I need to meet a man named Paul in the U.K.”</p>
+<p>“Oh, is it a boyfriend?” she says distractedly.</p>
+<p>“I don’t think so. Although, there were a few nights we were... a comfort to each other.”</p>
+<p>“Okay, then.” E purses her lips and nods. “Well, how long will you be gone?”</p>
+<p>“I don’t know. Paul and I, we have a lot to figure out. We have to figure out how to stop climate change. We have to figure out how to clean up our oceans. I think mushrooms will help. We'll have to meet up with Tess, and Ivy, and the others, too. And then, and then…” L finds herself slightly breathless. “And then we have to figure out how to stop all the rich people from losing all sense of morality and ethics and consolidating power to the point where everyone else is essentially a pawn in their game.” </p>
+</details>
  
  
  
@@ -441,7 +438,7 @@ category: creative
 								<p>A couple hours later L is in her house, in her bed, inside the mosquito net. Her headache has faded and she feels fine. The storm has passed away, leaving behind thin, shifting, planes of air. She’s reading a dense, poetic book about water and how to interpret it. She’s enjoying the language, but can’t process much meaning from it. She puts the book down and looks at her nightstand. Two pregnancy tests rest there, staring up at her with two blank eyes. No results.</p>
 								<p><em>How is this possible?</em></p>
 								<p>Pregnancy was unlikely, as she and her various partners on the island always used condoms, but you never knew. So she could understand a positive result and she could understand a negative result but a non-result was perplexing to say the least.</p> 
-								<p><em>Just a little low on iron from my last period. Something, something like that.</em></p>
+								<p><em>Just a little low on iron. Something, something like that.</em></p>
 								<p>It is barely five o clock. A breeze blows in and a rodent scampers across her roof. The cicadas are quieting down to a low, tired, scratching, only needing to cool themselves down a little in this breezy landscape.</p> 
 								<p><blockquote>“We will look at water as the subject. Mammals and insects are interesting, but they will only earn their place in this book to the extent that they can explain the behavior, the signs and symbols of water.” </blockquote></p>
 								<p>She puts the book down and falls asleep. She sleeps 12 hours. At 5 am a gecko lands on the wall of her bungalow just outside her head and calls out, loud and clear, “unh unh, unh unh, unh unh,” and she jolts awake, thinking the gecko is in her bed, that someone put it in her bed to wake her up, but there’s no one in her house, not even a gecko.</p> 
@@ -475,18 +472,8 @@ category: creative
 							<p></p>
 							<p></p>
 							<p></p>
-						</div>
+				
 
 				
 
-			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+		
