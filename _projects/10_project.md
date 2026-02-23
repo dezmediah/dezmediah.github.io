@@ -12,4 +12,4 @@ ethical concerns in the use of technology for research. We organized workshops a
 Predicting the Future. In the Fall, we invited Dr. Ari Schlesinger to give a keynote talk at Emory. 
 
 For more on the series, you can see our website here: https://atldh.wordpress.com/.
-You can also see slides I presented about the workshop at MLA 2026 in Toronto here. 
+You can also see slides I presented about the workshop at MLA 2026 in Toronto <a href='assets/pdf/thinkingcritically'>here</a>. 
