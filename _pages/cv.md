@@ -14,7 +14,7 @@ toc: false
 <p><a href="{{ '/assets/pdf/CV_spring_2026.pdf' | relative_url }}" download>Download PDF</a></p>
 <div class="cv-frame-wrap">
   <iframe
-    src="{{ '/assets/pdf/CV_fall_2025.pdf' | relative_url }}"
+    src="{{ '/assets/pdf/CV_spring_2026.pdf' | relative_url }}"
     loading="lazy"
     title="Dez Miller — CV (PDF)">
   </iframe>
