@@ -4,7 +4,7 @@ title: Thinking Critically about Code
 description: a collaborative community workshop series
 img: assets/img/thinkingcritically.png
 importance: 5
-category: academic
+category: academic 
 giscus_comments: false
 ---
 In Spring and Fall 2025, I collaborated with three other Emory PhD students to put on a cross-university, interdiscplinary workshop series around the
