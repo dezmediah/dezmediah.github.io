@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "City Water: The Cultural Power of Urban Rivers"
+title: "City Water: Urban Rivers as Cultural Infrastructure"
 description: "My dissertation, to be completed April 2026."
 img: assets/img/reflection.png
-importance: 1
+importance: 2
 category: academic
 giscus_comments: false
 ---
