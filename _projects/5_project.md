@@ -4,7 +4,7 @@ title: That Strange Sensation
 description: a serialized sci-fi story
 img: assets/img/tss.jpg
 importance: 5
-category: creative
+category: archived
 ---
 		<h1>That Strange Sensation</h2>
 				<!-- Main -->
