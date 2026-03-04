@@ -4,7 +4,7 @@ title: Generative Poetry
 description: produced at DinaCon 2019, published in Always Crashing in Fall 2021
 img: assets/img/poems.png
 importance: 2
-category: academic-creative
+category: creative
 giscus_comments: false
 ---
 
