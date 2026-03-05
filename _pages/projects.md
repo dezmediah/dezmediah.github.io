@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ongoing and creative projects, including collaborations and experimental work, whether or not they have resulted in publication.
 nav: true
 nav_order: 3
-display_categories: [academic, academic-creative, creative]
+display_categories: [academic, creative]
 horizontal: false
 ---
 
