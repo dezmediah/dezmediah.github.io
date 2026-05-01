@@ -451,7 +451,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-city-water-urban-rivers-as-cultural-infrastructure",
           title: 'City Water: Urban Rivers as Cultural Infrastructure',
-          description: "My dissertation, to be completed April 2026.",
+          description: "My dissertation, completed April 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
