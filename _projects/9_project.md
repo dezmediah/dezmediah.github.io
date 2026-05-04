@@ -2,7 +2,7 @@
 layout: page
 title: "City Water: Urban Rivers as Cultural Infrastructure"
 description: "My dissertation, completed April 2026."
-img: assets/img/city_water.png
+img: assets/img/city_water.jpg
 importance: 1
 category: academic
 giscus_comments: false
