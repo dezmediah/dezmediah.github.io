@@ -14,9 +14,9 @@ Over the last two centuries in the U.S. and around the world, urban rivers and t
 City Water has implications for infrastructure studies, eco-criticism and blue humanities, contemporary literature, and digital humanities. The project extends the work of Lauren Berlant and Jessica Hurley, who recognize how narratives affect infrastructure and how infrastructure influences narrative forms, to apply to the recent history of urban water control and commodification. Bringing this infrastructural understanding to the environmental and blue humanities, the project provides a rationale for using case studies from urban nature scenes to deepen an understanding of environmental agency and personhood. City Water’s approach to environmental study is influenced by postcolonial Indigenous scholarship, which sees environmental capture and control as an ongoing process of commodification (and colonization), separating water and land from their relations. Finally, this project intervenes in digital humanities and contemporary literature by using a unique digital humanistic method to “close read at scale” newspapers in order to provide historical and political contexts for literary readings. 
 
 
-Table of Contents: 
-Preface: Weelaunee, and what a Creek Reveals.
-Chapter 1: The New York Estuary: Rivers as Future Tellers
-Chapter 2: The L.A. River: Recursive History
-Chapter 3: The ELbe River System: Leben as Bleiben
-Conclusion: Rivers as People
+Table of Contents:
+- Preface: Weelaunee, and what a Creek Reveals.
+- Chapter 1: The New York Estuary: Future Tellers
+- Chapter 2: The L.A. River: Recursive History
+- Chapter 3: The Elbe River System: And the River Had Not Forgotten How
+- Conclusion: Rivers as People
