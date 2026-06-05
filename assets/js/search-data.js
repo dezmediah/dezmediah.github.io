@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Ongoing and creative projects, including collaborations and experimental work, whether or not they have resulted in publication.",
+          description: "Ongoing academic and creative projects, including collaborations and experimental work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
