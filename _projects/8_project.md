@@ -2,7 +2,7 @@
 layout: page
 title: Communicating AI’s Water Impact through Public Textile Art
 description: funded by AIAI
-img: /assets/img/ai-water.png
+img: /assets/img/ai-water.jpg
 importance: 2
 category: academic
 ---
