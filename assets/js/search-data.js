@@ -411,7 +411,7 @@ ninja.data = [{
               window.location.href = "/projects/10_project/";
             },},{id: "projects-generative-poetry",
           title: 'Generative Poetry',
-          description: "produced at DinaCon 2019, published in Always Crashing in Fall 2021",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-searching-for-latent-river-cultures",
