@@ -7,6 +7,7 @@ importance: 1
 category: academic
 giscus_comments: false
 ---
+I am currently revising my dissertation for submission to an academic press.
 
 Abstract:  
 Over the last two centuries in the U.S. and around the world, urban rivers and their tributaries have undergone dramatic transformations. From open-air streams that urban dwellers had near daily interaction with, urban rivers have become highly controlled and commodified resources, used as water supply and receptacles for pollution. _City Water: Urban Rivers as Cultural Infrastructure_ examines what that transformation has meant for the cultural role of urban water in the contemporary era. It argues that urban rivers act as cultural infrastructure—both a site for reading a city’s identity and values and an influence on narrative forms themselves. This project examines rhetorical patterns in newspapers, tracking how they construct narratives that commodify and flatten rivers’ meaning, alongside readings of novels, films, and public art in which that flattening is questioned and made strange, and in which, occasionally, the life of the river is recognized. Examining the South and Flint Rivers (in Atlanta), the Los Angeles River, the New York Estuary, and the Elbe River (in Germany), this project learns from specific watery places and relational networks.
