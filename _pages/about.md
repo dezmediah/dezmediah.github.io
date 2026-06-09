@@ -6,7 +6,7 @@ subtitle: <a href='#'> PhD in Comparative Literature, Emory University</a>.
 
 profile:
   align: right
-  image: LGS_headshot.jpg
+  image: reflection.png
   image_circular: true
   image_width: 130px
   image_height: 130px
