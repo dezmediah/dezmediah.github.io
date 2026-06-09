@@ -15,6 +15,6 @@ profile:
 
 Digital ecological humanist. Writer/Scholar/Artist/Teacher. 
 
-I'm on bluesky at dezmiller.bsky
+I'm on bluesky at dezmiller.bsky.social
 
 ---
