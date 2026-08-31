@@ -11,10 +11,10 @@ toc: false
 .cv-frame-wrap { height: 80vh; overflow: hidden; }
 .cv-frame-wrap iframe { width: 100%; height: 100%; border: 0; display: block; }
 </style>
-<p><a href="{{ '/assets/pdf/CV june 2026.pdf' | relative_url }}" download>Download PDF</a></p>
+<p><a href="{{ '/assets/pdf/CV_september2026.pdf' | relative_url }}" download>Download PDF</a></p>
 <div class="cv-frame-wrap">
   <iframe
-    src="{{ '/assets/pdf/CV_spring_2026.pdf' | relative_url }}"
+    src="{{ '/assets/pdf/CV_september2026.pdf' | relative_url }}"
     loading="lazy"
     title="Dez Miller — CV (PDF)">
   </iframe>
