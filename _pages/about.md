@@ -6,8 +6,8 @@ subtitle: <a href='#'> PhD in Comparative Literature, Emory University</a>.
 
 profile:
   align: right
-  image: reflection.png
-  image_circular: true
+  image: DezMiller_Headshot.jpg
+  image_circular: false
   image_width: 130px
   image_height: 130px
   
