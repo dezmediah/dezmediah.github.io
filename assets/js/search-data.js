@@ -444,16 +444,16 @@ ninja.data = [{
           description: "an ongoing collection of soundscapes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-communicating-ai-s-water-impact-through-public-textile-art",
-          title: 'Communicating AI’s Water Impact through Public Textile Art',
-          description: "funded by AIAI",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-city-water-urban-rivers-as-cultural-infrastructure",
           title: 'City Water: Urban Rivers as Cultural Infrastructure',
           description: "My dissertation, completed April 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-communicating-ai-s-water-impact-through-public-textile-art",
+          title: 'Communicating AI’s Water Impact through Public Textile Art',
+          description: "funded by AIAI",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/data_centers_impact_through_art/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
