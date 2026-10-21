@@ -453,7 +453,7 @@ ninja.data = [{
           title: 'Communicating AI’s Water Impact through Public Textile Art',
           description: "funded by AIAI",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/data_centers_impact_through_art/";
+              window.location.href = "/projects/datacenters-environment-art/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
