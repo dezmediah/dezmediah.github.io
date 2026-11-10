@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Digital Humanities
-permalink: /teaching/intro-dh/
+permalink: /teaching/intro-to-dh/
 nav: true
 ---
 
