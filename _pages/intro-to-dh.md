@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to Digital Humanities
 permalink: /teaching/intro-to-dh/
-nav: true
+nav: false
 ---
 
 **ENG 237-W: "Introduction to Digital Humanities"**
