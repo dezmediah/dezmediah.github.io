@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-introduction-to-digital-humanities",
+          title: "Introduction to Digital Humanities",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/intro-dh/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "Selected scholarly and creative publications",
           section: "Navigation",
